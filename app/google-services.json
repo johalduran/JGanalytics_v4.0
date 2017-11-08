@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "257606566344",
+    "firebase_url": "https://fir-jganalytics.firebaseio.com",
+    "project_id": "firebase-jganalytics",
+    "storage_bucket": "firebase-jganalytics.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257606566344:android:dd923c0e0626ea62",
+        "android_client_info": {
+          "package_name": "com.johnduran.jganalytics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257606566344-17o18l7c45alp84ucjqf2t6808ddt40p.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "257606566344-hf5kanhr04vjesav66ggq1ao3trtt4pr.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "257606566344-pu84tar2j89jj1pu4bepj98tla3617vl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.johnduran.jganalytics",
+            "certificate_hash": "992cc24081a981ec085af012db44d714cf8beb2d"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2rwyLaDLt7E3OLLPtuKfOziD87MF8WQs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257606566344-17o18l7c45alp84ucjqf2t6808ddt40p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
